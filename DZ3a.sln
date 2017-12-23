@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ3a", "DZ3a\DZ3a.csproj", "{4F9BC34C-C42E-4E92-9360-0C54A880F414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VebAplikacijaJedan", "VebAplikacijaJedan\VebAplikacijaJedan.csproj", "{47F605FE-2B2B-43CC-985C-6EA9DB648C7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F9BC34C-C42E-4E92-9360-0C54A880F414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9BC34C-C42E-4E92-9360-0C54A880F414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9BC34C-C42E-4E92-9360-0C54A880F414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9BC34C-C42E-4E92-9360-0C54A880F414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F605FE-2B2B-43CC-985C-6EA9DB648C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F605FE-2B2B-43CC-985C-6EA9DB648C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F605FE-2B2B-43CC-985C-6EA9DB648C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F605FE-2B2B-43CC-985C-6EA9DB648C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70C2225F-E622-4C8E-A6DE-BC09EAADD362}
+	EndGlobalSection
+EndGlobal
