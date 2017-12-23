@@ -1,0 +1,17 @@
+﻿@model VebAplikacijaJedan.Models.AddViewModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+</head>
+<body>
+<div>
+    <form asp-controller="Todo" asp-action="Add" method="post">
+        Text: <input asp-for="_text"/> <span asp-validation-for="_text">Required</span> <br/>
+        Finish until: <input asp-for="_dateDue"/> <span asp-validation-for="_dateDue"></span> <br/>
+        <button type="submit">Add</button>
+    </form>
+</div>
+</body>
+</html>

@@ -1,0 +1,23 @@
+﻿@using DZ3a
+@model TodoItemsModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+<div>
+    @if (Model != null)
+    {
+        foreach (TodoItem todoItem in Model._todoItemsList)
+        {
+            <h1>
+                @todoItem.Text <a asp-controller="Todo" asp-action="TodoItem" asp-route-id="@todoItem.Id">više...</a>
+            </h1>
+        }
+    }
+</div>
+</body>
+</html>

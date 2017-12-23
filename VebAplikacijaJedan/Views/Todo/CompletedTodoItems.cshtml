@@ -1,0 +1,22 @@
+﻿@using DZ3a
+@model VebAplikacijaJedan.Models.CompletedViewModel
+@{
+    ViewData["Title"] = "Completed";
+}
+<html>
+    <body>
+        <div>
+            <br \><br \>
+            <a href="">Homepage</a>
+            @foreach (TodoItem todoItem in Model._completedTodoItemList)
+            {
+                <h1>
+                    todoItem.Text;
+                </h1>
+                <h2>
+                    todoItem.DateDue.Tostring();
+                </h2>
+            }
+        </div>
+    </body>
+</html>
