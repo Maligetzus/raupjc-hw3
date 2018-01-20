@@ -1,0 +1,14 @@
+C:\Users\Hrvoje\source\repos\DZ3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Hrvoje\source\repos\DZ3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Hrvoje\source\repos\DZ3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Hrvoje\source\repos\DZ3\ConsoleApp1\bin\Debug\DZ3a.dll
+C:\Users\Hrvoje\source\repos\DZ3\ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\Hrvoje\source\repos\DZ3\ConsoleApp1\bin\Debug\DZ3a.pdb
+C:\Users\Hrvoje\source\repos\DZ3\ConsoleApp1\bin\Debug\DZ3a.dll.config
+C:\Users\Hrvoje\source\repos\DZ3\ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\Hrvoje\source\repos\DZ3\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Hrvoje\source\repos\DZ3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hrvoje\source\repos\DZ3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Hrvoje\source\repos\DZ3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Hrvoje\source\repos\DZ3\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hrvoje\source\repos\DZ3\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
